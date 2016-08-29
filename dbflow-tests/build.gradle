@@ -8,7 +8,7 @@ android {
 
     useLibrary 'org.apache.http.legacy'
 
-    compileSdkVersion 23
+    compileSdkVersion 24
     buildToolsVersion dbflow_build_tools_version
 
     compileOptions {
@@ -18,7 +18,7 @@ android {
 
     defaultConfig {
         minSdkVersion 9
-        targetSdkVersion 23
+        targetSdkVersion 24
         versionCode 1
         versionName "1.0"
     }
